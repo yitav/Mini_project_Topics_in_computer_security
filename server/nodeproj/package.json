@@ -1,0 +1,20 @@
+{
+  "bin": "server_main.js",
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_main.js",
+  "dependencies": {
+    "directory-tree": "^2.1.0",
+    "express": "^4.16.0",
+    "express-session": "^1.15.6",
+    "ip": "^1.1.5",
+    "sqlite3": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
